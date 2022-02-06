@@ -1,0 +1,17 @@
+.wpcf7-list-item {
+	display: block !important;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.wpcf7-form label {
+	margin-bottom: 15px;
+}
+
+.wpcf7-form p {
+	margin-top: 25px !important;
+}
+
+.wpcf7-form-control {
+	margin-top: 15px !important;
+}
